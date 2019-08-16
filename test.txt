@@ -1,7 +1,0 @@
-git add *
-tải len
-git commit -m xác nhận tải lên github
-git push
-git revert tải lại
-
-
