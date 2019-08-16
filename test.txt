@@ -1,6 +1,0 @@
-git push
-tải len
-git commit -m xác nhận tải lên github
-git revert tải lại
-
-
