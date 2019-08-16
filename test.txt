@@ -1,2 +1,4 @@
 một ngày mới
 Thuyen test
+// git summit -a -m"
+git revert
