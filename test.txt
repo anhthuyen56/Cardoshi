@@ -1,5 +1,6 @@
-một ngày mới
-Thuyen test
-// git summit -a -m"
-git revert
-tạo file
+git push
+tải len
+git commit -m xác nhận tải lên github
+git revert tải lại
+
+
