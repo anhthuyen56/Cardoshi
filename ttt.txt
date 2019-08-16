@@ -1,3 +1,4 @@
+git clone link 
 git add *
 tải len
 git commit -m xác nhận tải lên github
