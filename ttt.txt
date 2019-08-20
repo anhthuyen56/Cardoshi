@@ -7,4 +7,5 @@ git revert tải lại
 sua xem
 //git remote add origin
 //git push -u origin master
+//sua chút 
 
